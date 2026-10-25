@@ -1,6 +1,6 @@
 {
-  "name": "real.tube",
-  "short_name": "real.tube",
+  "name": "Real YouTubers",
+  "short_name": "read-youtubers",
   "description": "Human-curated list of real human YouTubers",
   "start_url": "/",
   "scope": "/",
