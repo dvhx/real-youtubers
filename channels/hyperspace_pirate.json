@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@HyperspacePirate",
+    "channel_name": "HyperspacePirate",
+    "last_video": "https://www.youtube.com/watch?v=4lNIHBHzbn8",
+    "description": "The HyperspacePirate channel focuses on ambitious DIY engineering projects, most notably building homemade cryocoolers and refrigeration systems that reach extremely low temperatures using salvaged or off-the-shelf parts. The videos often involve improvised chemistry and electronics to create refrigerants from scratch (like ethane or ethylene) or to build components like pulse tube cryocoolers. Beyond cooling, the channel also covers other mechanical and electronic tinkering, such as building a self-balancing monorail model using gyroscopes.",
+    "videos_last_year": 15,
+    "average_video_duration_minutes": 15,
+    "tags": ["compressors", "cryocoolers", "refrigeration", "science", "diy"] 
+}

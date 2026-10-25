@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@PracticalEngineeringChannel",
+    "channel_name": "Practical Engineering",
+    "last_video": "https://www.youtube.com/watch?v=awV7FP9sAHE",
+    "description": "Practical Engineering focuses on explaining the hidden workings of civil engineering and infrastructure through physical demonstrations and scale models. Host Grady Hillhouse breaks down topics like dam failures, bridge foundations, and stormwater systems, often recreating engineering principles on a small scale to show exactly how they function. The videos frequently examine real-world engineering challenges and disasters, such as hurricane wave testing on model houses or structural collapses, to illustrate the trade-offs involved in designing safe public works.",
+    "videos_last_year": 24,
+    "average_video_duration_minutes": 15,
+    "tags": ["engineering", "infrastructure"] 
+}

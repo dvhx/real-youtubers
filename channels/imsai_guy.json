@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@IMSAIGuy",
+    "channel_name": "IMSAI Guy",
+    "last_video": "https://www.youtube.com/watch?v=wavwiqrvnWM",
+    "description": "The IMSAI Guy channel features hands-on electronics tinkering and test equipment reviews, typically filmed in a garage workshop setting. Videos cover practical topics like using oscilloscopes and vector network analyzers, repairing vintage gear, and demonstrating circuit concepts without heavy math. The content ranges from teardowns and tool tips to experiments with RF filters and antennas, aimed at both beginners and experienced hobbyists.",
+    "videos_last_year": 360,
+    "average_video_duration_minutes": 8,
+    "tags": ["electronics", "engineering", "radio", "chips", "repair"] 
+}

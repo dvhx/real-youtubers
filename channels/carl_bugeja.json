@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@CarlBugeja",
+    "channel_name": "Carl Bugeja",
+    "last_video": "https://www.youtube.com/watch?v=teeNgLN_ZRI",
+    "description": "Carl Bugeja's YouTube channel focuses on experimental electronics engineering, where he designs motors, actuators, and robots directly out of printed circuit boards (PCBs) rather than traditional components. He frequently uses flexible PCBs to create ultra-lightweight, folding mechanisms, such as cube-shaped four-wheeled robots or microscopic brushless motors where the copper traces themselves act as motor coils. The videos document his iterative design and testing process, showcasing challenges like thermal management and miniaturization in his quest to build novel micro-robotics.",
+    "videos_last_year": 2,
+    "average_video_duration_minutes": 10,
+    "tags": ["electronics", "manufacturing", "motors", "PCB"]
+}

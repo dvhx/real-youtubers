@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@JohnAudioTech",
+    "channel_name": "JohnAudioTech",
+    "last_video": "https://www.youtube.com/watch?v=xc0RRuVmOqc",
+    "description": "The channel focuses on hands-on electronics, primarily DIY audio projects like amplifier builds, speaker design, and circuit testing using tools like audio analyzers. It also features repair videos, such as troubleshooting and fixing faulty subwoofers or amplifiers, alongside practical tutorials on topics like eliminating noise or understanding JFETs.",
+    "videos_last_year": 23,
+    "average_video_duration_minutes": 20,
+    "tags": ["electronics", "amplifiers", "diy", "thd"] 
+}

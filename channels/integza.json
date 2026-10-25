@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@integza",
+    "channel_name": "Integza",
+    "last_video": "https://www.youtube.com/watch?v=Zb7YOf1aPnM",
+    "description": "Integza's videos center on ambitious DIY engineering projects, most often building and testing small-scale rocket engines, unusual propulsion systems, and other mechanical devices using 3D printing and machining. The host, a mechanical engineer, approaches these experiments with humor and transparency, frequently showing failures, unexpected explosions, and the trial-and-error process alongside successful ignitions. Beyond rockets, he also tackles oddball builds like a shotgun-powered axe or modified combustion devices, always blending genuine technical explanation with chaotic experimentation.",
+    "videos_last_year": 5,
+    "average_video_duration_minutes": 20,
+    "tags": ["diy", "rockets", "engines", "science", "experiments"] 
+}

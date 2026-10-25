@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@MinutePhysics",
+    "channel_name": "minutephysics",
+    "last_video": "https://www.youtube.com/watch?v=4YvnVJRlQQs",
+    "description": "MinutePhysics uses simple whiteboard-style animation to explain physics concepts ranging from fundamental mechanics and quantum phenomena to hypothetical questions and paradoxes. The videos are known for breaking down complex scientific topics, such as dark matter, the Higgs boson, and gravitational waves, into concise, accessible explanations, often in just a few minutes. Beyond core physics, the channel also explores applied physics questions, like whether it's better to walk or run in the rain, and occasionally ventures into philosophy and thought experiments.",
+    "videos_last_year": 12,
+    "average_video_duration_minutes": 5,
+    "tags": ["physics", "education", "math"] 
+}

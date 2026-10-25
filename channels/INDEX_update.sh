@@ -1,0 +1,1 @@
+ls *.json | grep -v '0.json' | sed 's/\.json//' > INDEX.txt

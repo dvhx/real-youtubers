@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@w2aew",
+    "channel_name": "w2aew",
+    "last_video": "https://www.youtube.com/watch?v=PRzytyqwK5U",
+    "description": "The w2aew channel features hands-on tutorials and demonstrations focused on practical electronics, test and measurement equipment, and ham radio. Videos typically walk through circuit concepts (like amplifiers and filters), show how to use oscilloscopes and spectrum analyzers for measurements, and cover RF topics relevant to amateur radio operators. The content is instructional and aimed at hobbyists and engineers who want to understand the theory behind the bench work.",
+    "videos_last_year": 15,
+    "average_video_duration_minutes": 10,
+    "tags": ["electronics", "oscilloscope", "ham radio"] 
+}

@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@numberphile",
+    "channel_name": "Numberphile",
+    "last_video": "https://www.youtube.com/watch?v=Uvy5Cs9FDLg",
+    "description": "Numberphile features mathematicians and other guests explaining a wide range of mathematical topics, from famous problems and number theory to quirky puzzles and historic discoveries. The videos often involve informal interviews where concepts are illustrated on large sheets of brown paper, aiming to make math accessible and engaging for a general audience.",
+    "videos_last_year": 44,
+    "average_video_duration_minutes": 15,
+    "tags": ["math", "education"] 
+}

@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@bigclivedotcom",
+    "channel_name": "bigclivedotcom",
+    "last_video": "https://www.youtube.com/watch?v=OrGU4NekFxk",
+    "description": "Bigclivedotcom's videos primarily focus on tearing down, modifying, and testing cheap or random electronic devices, often using budget soldering equipment to explore their internal circuitry and expose poor or fake designs. The content frequently involves reverse-engineering products like LED bulbs, capacitors, and voltage testers, sometimes intentionally destroying items or demonstrating dangerous mains-voltage projects for entertainment.",
+    "videos_last_year": 192,
+    "average_video_duration_minutes": 15,
+    "tags": ["electronics", "teardowns", "schematics", "UK"]
+}

@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@Dronebotworkshop",
+    "channel_name": "DroneBot Workshop",
+    "last_video": "https://www.youtube.com/watch?v=tyELRiuEG40",
+    "description": "The DroneBot Workshop channel features methodical tutorials on using microcontrollers like Arduino, Raspberry Pi, and ESP32 to interface with electronic components such as sensors, motors, and displays. The videos focus on explaining how these components and modules work at a fundamental level, often demonstrating code and wiring for specific parts like ultrasonic sensors, rotary encoders, or motor controllers. While the host occasionally builds projects, the primary goal is teaching viewers the underlying principles so they can apply the knowledge to their own robotics and IoT designs.",
+    "videos_last_year": 18,
+    "average_video_duration_minutes": 30,
+    "tags": ["electronics", "Arduino", "ESP32", "MCU", "modules", "education"]
+}

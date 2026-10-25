@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@EEVblog",
+    "channel_name": "EEVblog",
+    "last_video": "https://www.youtube.com/watch?v=8JnHdr30v4g",
+    "description": "The EEVblog YouTube channel features in-depth reviews and teardowns of electronic test equipment, where host Dave Jones takes apart devices like oscilloscopes and multimeters to analyze their internal design and construction. It also provides practical tutorials and masterclasses on electronics engineering concepts, ranging from beginner guides on how to use a multimeter to advanced topics like power measurement and circuit analysis. Additionally, the channel covers electronics commentary, mailbag segments where viewers send in items for review, and occasional repair videos or industry critiques.",
+    "videos_last_year": 88,
+    "average_video_duration_minutes": 25,
+    "tags": ["electronics", "engineering", "teardowns", "debunking", "reviews"] 
+}

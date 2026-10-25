@@ -1,0 +1,9 @@
+{
+    "channel_url": "https://www.youtube.com/@VolosProjects",
+    "channel_name": "VolosProjects",
+    "last_video": "https://www.youtube.com/watch?v=t3PVwShOWWo",
+    "description": "The VolosProjects YouTube channel focuses on hands-on electronics projects and tutorials, primarily using ESP32 and ESP8266 microcontrollers paired with small TFT displays. Videos cover practical builds like digital voltmeters, automated lighting controllers, and mini games, often including wiring diagrams and code walkthroughs. The creator also demonstrates how to work with various development boards (such as those from Waveshare and M5Stack) and shares tips for driving animations and interfaces on tiny screens.",
+    "videos_last_year": 52,
+    "average_video_duration_minutes": 10,
+    "tags": ["electronics", "Arduino", "ESP32", "mini computers", "gadgets"]
+}
