@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    font-size: medium;
+    max-width: 50em;
+    margin: auto;
+    padding: 1ex;
+}
+h1 {
+    font-size: large;
+    margin: 0;
+}
+h2 {
+    font-size: small;
+    color: gray;
+    margin: 0;
+}
+article {
+    padding-top: 1ex;
+    margin-top: 1em;
+    border-top: 1px solid silver;
+}
+article:hover {
+    background-color: #ffffcc;
+}
+article .title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1ex;
+}
+article .tags {
+    color: gray;
+}
+article .channel_name {
+    font-weight: bold;
+    white-space: nowrap;
+    _flex: 1;
+}
+article .frequency {
+}
+article .description {
+    margin-top: 1ex;
+    margin-bottom: 1ex;
+}
+article .status {
+    margin-bottom: 1ex;
+}
+article iframe {
+    margin: 0;
+    padding: 0;
+    border: none;
+    display: none;
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+    height: auto !important;
+}
+
+
